@@ -85,7 +85,9 @@ python factorial.py
 ---
 
 ## 👨‍💻 Author
-
+Jeetom Dhanoriya
+SOC 21
+59
 Created as part of Python Programming Lab coursework.
 
 ---
